@@ -1,1 +1,1 @@
-# cote-workshop-secured
+# Encrypted Sockets Study
